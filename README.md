@@ -1,5 +1,5 @@
 # ZeroToBlockchain
-Tutorial on getting started with Blockchain on IBM Bluemix 
+Tutorial on getting started with Blockchain on IBM Cloud  or on premises   (using  Hyperledger Fabric  Open Source) 
 
 Please use the README.md or README.pdf files in each chapter for the latest documentation for that chapter. 
 
